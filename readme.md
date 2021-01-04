@@ -36,6 +36,8 @@ POST : http://localhost:8080/book/completetrip
             "availabilityStatus": "BUSY"
 } 
 
+Test cases have been added in the test folder for the basic use cases along with the data scripts . These are the integration test cases with db calls using spring boottest annotations. 
+
 Improvements that can be implemented :
 
 1) use google maps api
